@@ -2,7 +2,7 @@
 
 This is a face mask detection system built with OpenCV, machine learning, and computer vision concepts. The system is able to detect face masks in static images as well as in real-time video streams. The project also includes face and eye detection along with mask detection.
 
-# Installation
+## Installation
 
 To install and run the project, follow these steps:
 
@@ -12,7 +12,7 @@ To install and run the project, follow these steps:
 
 Note: If you want any additional files for the project, please feel free to contact us.
 
-# Usage
+## Usage
 
 To use the face mask detection system, follow these steps:
 
@@ -20,7 +20,7 @@ To use the face mask detection system, follow these steps:
     2. The system will use your computer's camera to detect faces and masks in real-time video streams.
     3. If a mask is not detected, the system will highlight the face in red and display a warning message.
 
-# Contributing
+## Contributing
 
 We welcome contributions to this project. If you want to contribute, please follow these guidelines:
 
@@ -30,6 +30,6 @@ We welcome contributions to this project. If you want to contribute, please foll
     4. Push your changes to your forked repository.
     5. Create a pull request with a clear description of your changes.
 
-# Contact
+## Contact
 
 If you have any questions or issues, please contact us at rishabhvyas472@gmail.com
